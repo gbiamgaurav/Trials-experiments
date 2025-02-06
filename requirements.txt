@@ -1,0 +1,8 @@
+streamlit
+ipykernel
+jupyter
+pandas
+numpy
+seaborn
+pypdf2
+langchain
